@@ -124,7 +124,7 @@ Expand "Custom Logs" to reveal more tables and double-click the "AzureActivity_C
 <img width="976" alt="Screenshot 2024-02-20 at 14 13 53" src="https://github.com/cyberkels/SIEM_Implementation_and_Incident_Investigation/assets/147159632/6114a174-94d1-4daa-97fe-d0811963a459">
 
 
-Click on "Run" and the results will show at EVERYTHING that happens inside the Azure subscription:
+Click on "Run" and the results will show EVERYTHING that happens inside the Azure subscription:
 
 
 <img width="834" alt="Screenshot 2024-02-20 at 14 15 58" src="https://github.com/cyberkels/SIEM_Implementation_and_Incident_Investigation/assets/147159632/3cf01e94-401d-44f3-8364-e6d1245a0198">
