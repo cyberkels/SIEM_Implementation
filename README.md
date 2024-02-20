@@ -1,4 +1,4 @@
-# SIEM_Implementation
+# SIEM (Microsoft Sentinel) Implementation
 
 The project is undertaken in a controlled environment, using Microsoft's native training lab, to set up a cloud-based Security Information and Event Management tool (Microsoft Sentinel), for simulating and detecting cyber attacks. The primary focus is to ingest and analyze logs, to deepen understanding of network security, attack patterns and defensive strategies.
 
