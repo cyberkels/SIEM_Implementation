@@ -24,7 +24,9 @@ Click "Review+create", and then click "Create" on the bottom left of the screen 
 <img width="913" alt="Screenshot 2024-02-20 at 12 07 36" src="https://github.com/cyberkels/SIEM_Implementation_and_Incident_Investigation/assets/147159632/fb62f891-4a5b-4ea1-937a-a64ab71769b6">
 
 
-Click on the resource group, and then select "Create". In the search bar, search for "log analytics workspace". Select "create" and then "Log Analytics Workspace" on the Log Analytics Workspace results card:
+The next step is to create the Log Analytics Workspace. 
+
+Click on the recently crested resource group, and then select "Create". In the search bar, search for "log analytics workspace". Select "create" and then "Log Analytics Workspace" on the Log Analytics Workspace results card:
 
 
 <img width="1059" alt="Screenshot 2024-02-20 at 12 19 30" src="https://github.com/cyberkels/SIEM_Implementation_and_Incident_Investigation/assets/147159632/49084d8d-41f3-40c2-a9a4-8a753d6b87ea">
