@@ -142,9 +142,14 @@ You can then expand one of the results to get more information. In the example b
 
 <img width="963" alt="Screenshot 2024-02-20 at 14 38 36" src="https://github.com/cyberkels/SIEM_Implementation_and_Incident_Investigation/assets/147159632/f2fa5110-1768-4768-917c-44a630744ad0">
 
-From here you can then continue your investigations in the environment, using the "Threat Management" menu, using "Hunting" to proactively hunt for cyber security threats inside the data, "Workbooks" for performing detailed investigations by running queries, visualizations and analytics, "Entity Behavior" for the patterns exhibited by different entities (eg, users, hosts, IP addresses) and "Threat Intelligence" for building your own database for different Indicators of Compromise (IOC).
+From here you can then continue your investigations in the environment, using the "Threat Management" menu, using 
 
-There is also "Automation", which allows automation of incident handling, integrating with third-party services like virus-totals, AbuseIP DB and other solutions that are not natively integrated with Microsoft Sentinel.
+1. "Hunting" to proactively hunt for cyber security threats inside the data
+2. "Workbooks" for performing detailed investigations by running queries, visualizations and analytics
+3. "Entity Behavior" for the patterns exhibited by different entities (eg, users, hosts, IP addresses) and 
+4. "Threat Intelligence" for building your own database for different Indicators of Compromise (IOC).
+
+There is also "Automation", which allows automation of incident handling, integrating with third-party servicesices like virus-totals, AbuseIP DB and other solutions that are not natively integrated with Microsoft Sentinel.
 
 
 
