@@ -2,7 +2,7 @@
 
 The project is undertaken in a controlled environment, using Microsoft's native training lab, to set up a cloud-based Security Information and Event Management tool (Microsoft Sentinel), for detecting cyber attacks. The primary focus is to ingest and analyze logs, to deepen understanding of network security, attack patterns and defensive strategies.
 
-To create a Microsoft Sentinel instance, you have to first create a resource group; a container for grouping Azure resources. A log analytics workspace will next be created, which is the solution that Sentinel uses for storing data and interacting with it.
+To create a Microsoft Sentinel instance, you have to first create a resource group, which is a container for grouping Azure resources. A log analytics workspace will next be created, the solution that Sentinel uses for storing data and interacting with it.
 
 ## Steps
 
