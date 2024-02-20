@@ -62,6 +62,8 @@ Select "Create", and then select the Log Analytics Workspace just created and cl
 <img width="783" alt="Screenshot 2024-02-20 at 12 33 22" src="https://github.com/cyberkels/SIEM_Implementation_and_Incident_Investigation/assets/147159632/fd4a9e58-0cde-41fa-9622-19e72694595d">
 
 
+The Microsoft Sentinel page will open.
+
 Select "Content hub" and search for "training". Select the "Microsoft Sentinel Training Lab" solution. This will ingest pre-recorded data into Sentinel. Click on "Install":
 
 
